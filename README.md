@@ -30,6 +30,10 @@ This repository documents the process of creating an admin user account in AWS I
 2. Review and Create new user, after verifying all information is correct.
    ![image](https://github.com/user-attachments/assets/6603a87c-b2ec-41a8-be89-45f6d254a71c)
 
+## Step 3: Have user Change Password at first Login
+1. Send user their account id, user name and temporary password. They will be prompted to change at first login.
+   <img width="2732" height="2048" alt="image" src="https://github.com/user-attachments/assets/788aaf55-3dd4-42f7-b2b7-ec4844c5a85f" />
+
 
 
 **Policy JSON:**
